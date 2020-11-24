@@ -1,0 +1,7 @@
+install.packages('tidyverse')
+install.packages('nycflights13')
+install.packages('gapminder')
+install.packages('Lahman')
+install.packages('maps')
+install.packages('mapproj')
+install.packages('hexbin')
